@@ -1,0 +1,22 @@
+{
+  "name": "Savings Challenge",
+  "short_name": "Savings",
+  "description": "10 Month Savings Challenge - Save Rs. 100,000",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#eee5d0",
+  "theme_color": "#3d3425",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
